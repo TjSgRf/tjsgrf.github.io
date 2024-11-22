@@ -9,4 +9,8 @@ By adding this bot to your server, or being in a server with the bot within it, 
 3. My decisions are final
     If you find yourself banned from my bot, I will not be doing any ban requests. If you're banned, you're banned. Bans could be from not following TOS, or just being a total fucking douchebag. Looking at you JOSH. YEAH, FUCK YOU.
 
+4. No overloading the bot
+    Don't make too many requests too quickly. That's all.
+
+
 More will likely be added in the future.
