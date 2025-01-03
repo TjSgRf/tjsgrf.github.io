@@ -7,7 +7,7 @@ By adding this bot to your server, or being in a server with the bot within it, 
     Don't harass anyone. Should be easy enough to understand.
 
 3. My decisions are final
-    Most of the time, I won't be doing ban appeals, but if you want to submit one, send it to niko_oneshot_enjoyer on Discord. Spamming me will make you less likely to be unbanned. If you're banned, it's usually final. Bans could be from not following TOS, or just being what I see as a person who I do not wish to be associated with me or my projects. Looking at you JOSH. YEAH, FUCK YOU.
+    Most of the time, I won't be doing ban appeals, but if you want to submit one, send it to niko_oneshot_enjoyer on Discord. Spamming me will make you less likely to be unbanned. If you're banned, it's usually final. Bans could be from not following TOS, or just being what I see as a person who I do not wish to be associated with me or my projects.
 
 4. No overloading the bot
     Don't make too many requests with commands too quickly, as the bot will heavily slow down if you do. That's all.
