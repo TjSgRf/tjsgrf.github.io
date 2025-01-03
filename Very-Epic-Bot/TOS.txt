@@ -12,4 +12,7 @@ By adding this bot to your server, or being in a server with the bot within it, 
 4. No overloading the bot
     Don't make too many requests with commands too quickly, as the bot will heavily slow down if you do. That's all.
 
+5. No usage of brainrot terms
+    You shall not be able to use brainrot terms while messaging in a server that has this bot. If you do, I will likely permanently ban you. Sending ban appeals relating to this will not even make me consider unbanning you. My decision is truly final here. Why would I do this though? I just have a negative stance on brainrot. I don't like it at all. If you want to know what I mean by "brainrot", I mean words like "skibidi", or "fanum". I have also banned the word "sus", despite it not really counting in most people's eyes, but it basically is the same as everything else.
+
 More will likely be added in the future.
